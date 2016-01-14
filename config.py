@@ -1,0 +1,9 @@
+# boston
+MIN_LAT=42
+MAX_LAT=43
+MIN_LON=-72
+MAX_LON=-70
+
+# image size
+CANVAS_X = 500
+CANVAS_Y = 500
