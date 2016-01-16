@@ -9,12 +9,20 @@ Boston Service Map - Visualization of 311 service calls in Metro Boston
 
 -Reported 311 call data parsed from <a href='https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52'>311 City of Boston</a>
 
+<h3> Examples </h3>
+<h5>"Which areas are using the most space savers in the winter?"</h5>
+
 ![alt tag](./imgs/space_savers.png)
+
+<h5>"Which areas need the most traffic light repairs?"</h5>
 ![alt tag](./imgs/traffic_signals.png)
+
 
 <a href='https://johnliao.cartodb.com/viz/89a9f1dc-bb3d-11e5-8f12-0e674067d321/embed_map'> Interactive Map!</a>
 
-<h2>Available data:</h2>
+<h2>Available grouped data:</h2>
+
+Filtered by: 2015, TYPE
 
 Abandoned Bicycle.csv
 Abandoned Building.csv
