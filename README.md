@@ -2,13 +2,13 @@
 Boston Service Map - Visualization of 311 service calls in Metro Boston
 
 <h3>Notes</h3>
-
+```
 -Csv data grouped by CASE TYPE in 2015. Raw csv data available in /cartoDB_Data/.
 
 -Using <a href='https://cartodb.com/'> CartoDB </a> to display data.
 
 -Reported 311 call data parsed from <a href='https://data.cityofboston.gov/City-Services/311-Service-Requests/awu8-dc52'>311 City of Boston</a>
-
+```
 <h3> Examples </h3>
 <h5>"Which areas are using the most space savers in the winter?"</h5>
 
@@ -23,7 +23,7 @@ Boston Service Map - Visualization of 311 service calls in Metro Boston
 <h2>Available grouped data:</h2>
 
 Filtered by: 2015, TYPE
-
+```
 Abandoned Bicycle.csv
 Abandoned Building.csv
 Abandoned Vehicles.csv
@@ -187,3 +187,4 @@ Watermain Break.csv
 Work Hours-Loud Noise Complaints.csv
 Working Beyond Hours.csv
 Zoning.csv
+```
